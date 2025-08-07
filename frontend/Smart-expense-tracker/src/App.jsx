@@ -8,17 +8,17 @@ import {
   Navigate,
 } from "react-router-dom";
 
-import Login from "./pages/auth/login";
-import Signup from "./pages/auth/signup";
+import Login from "./pages/auth/Login";
+import Signup from "./pages/auth/SignUp";
 import Home from "./pages/Dashboard/Home";
-import Expense from "./pages/Dashboard/expense";
-import Income from "./pages/Dashboard/income";
+import Expense from "./pages/Dashboard/Expense";
+import Income from "./pages/Dashboard/Income";
 const App = () => {
   return (
     <div>
       <Router>
         <Routes>
-          <Route path = "/" element={<Root/>} />
+          <Route path = "/" element={<Root />} />
           <Route path="/login" exact element={<Login />} />
           <Route path="/signup" exact element={<Signup />} />
           <Route path = "/dashboard" exact element={<Home/>} />
@@ -33,7 +33,7 @@ const App = () => {
   export default App;
 
 
-const Root = () => {
+/*const Root = () => {
   const isAuthenticated = !!localStorage.getItem("token");
 
   return isAuthenticated ? (
@@ -41,4 +41,14 @@ const Root = () => {
   ) : (
     <Navigate to="/login" replace />
   );
-}
+}*/
+const Root = () => {
+  const isAuthenticated = !!localStorage.getItem("token");
+  console.log("Is Authenticated:", isAuthenticated);
+
+  return isAuthenticated ? (
+    <Navigate to="/dashboard" replace />
+  ) : (
+    <Navigate to="/login" replace />
+  );
+};

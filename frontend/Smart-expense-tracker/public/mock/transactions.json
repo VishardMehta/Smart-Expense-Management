@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "type": "expense",
+    "title": "Grocery Shopping",
+    "amount": 2500,
+    "category": "Food",
+    "emoji": "🛒",
+    "date": "2025-01-15T10:30:00.000Z",
+    "notes": "Weekly groceries from supermarket"
+  },
+  {
+    "id": "2",
+    "type": "income",
+    "title": "Salary",
+    "amount": 75000,
+    "category": "Salary",
+    "emoji": "💰",
+    "date": "2025-01-01T09:00:00.000Z",
+    "notes": "Monthly salary"
+  },
+  {
+    "id": "3",
+    "type": "expense",
+    "title": "Coffee",
+    "amount": 150,
+    "category": "Food",
+    "emoji": "☕",
+    "date": "2025-01-14T08:15:00.000Z",
+    "notes": "Morning coffee"
+  },
+  {
+    "id": "4",
+    "type": "expense",
+    "title": "Rent",
+    "amount": 25000,
+    "category": "Housing",
+    "emoji": "🏠",
+    "date": "2025-01-01T00:00:00.000Z",
+    "notes": "Monthly rent payment"
+  },
+  {
+    "id": "5",
+    "type": "income",
+    "title": "Freelance Project",
+    "amount": 15000,
+    "category": "Freelance",
+    "emoji": "💻",
+    "date": "2025-01-10T14:00:00.000Z",
+    "notes": "Web development project"
+  },
+  {
+    "id": "6",
+    "type": "expense",
+    "title": "Electricity Bill",
+    "amount": 1800,
+    "category": "Utilities",
+    "emoji": "⚡",
+    "date": "2025-01-05T16:30:00.000Z",
+    "notes": "Monthly electricity bill"
+  },
+  {
+    "id": "7",
+    "type": "expense",
+    "title": "Movie Tickets",
+    "amount": 600,
+    "category": "Entertainment",
+    "emoji": "🎬",
+    "date": "2025-01-12T19:00:00.000Z",
+    "notes": "Weekend movie with friends"
+  },
+  {
+    "id": "8",
+    "type": "expense",
+    "title": "Fuel",
+    "amount": 3000,
+    "category": "Transportation",
+    "emoji": "⛽",
+    "date": "2025-01-08T11:45:00.000Z",
+    "notes": "Petrol for car"
+  },
+  {
+    "id": "9",
+    "type": "income",
+    "title": "Investment Returns",
+    "amount": 5000,
+    "category": "Investment",
+    "emoji": "📈",
+    "date": "2025-01-07T10:00:00.000Z",
+    "notes": "Mutual fund returns"
+  },
+  {
+    "id": "10",
+    "type": "expense",
+    "title": "Internet Bill",
+    "amount": 1200,
+    "category": "Utilities",
+    "emoji": "🌐",
+    "date": "2025-01-03T12:00:00.000Z",
+    "notes": "Monthly internet subscription"
+  },
+  {
+    "id": "11",
+    "type": "expense",
+    "title": "Gym Membership",
+    "amount": 2000,
+    "category": "Health",
+    "emoji": "💪",
+    "date": "2024-12-28T09:00:00.000Z",
+    "notes": "Monthly gym membership"
+  },
+  {
+    "id": "12",
+    "type": "expense",
+    "title": "Restaurant Dinner",
+    "amount": 1500,
+    "category": "Food",
+    "emoji": "🍽️",
+    "date": "2024-12-25T20:00:00.000Z",
+    "notes": "Christmas dinner"
+  },
+  {
+    "id": "13",
+    "type": "income",
+    "title": "Bonus",
+    "amount": 20000,
+    "category": "Salary",
+    "emoji": "🎁",
+    "date": "2024-12-20T10:00:00.000Z",
+    "notes": "Year-end bonus"
+  },
+  {
+    "id": "14",
+    "type": "expense",
+    "title": "Shopping",
+    "amount": 4500,
+    "category": "Shopping",
+    "emoji": "🛍️",
+    "date": "2024-12-15T15:30:00.000Z",
+    "notes": "Clothes shopping"
+  },
+  {
+    "id": "15",
+    "type": "expense",
+    "title": "Medical Checkup",
+    "amount": 2500,
+    "category": "Health",
+    "emoji": "🏥",
+    "date": "2024-12-10T11:00:00.000Z",
+    "notes": "Annual health checkup"
+  },
+  {
+    "id": "16",
+    "type": "expense",
+    "title": "Book Purchase",
+    "amount": 800,
+    "category": "Education",
+    "emoji": "📚",
+    "date": "2024-12-05T14:20:00.000Z",
+    "notes": "Programming books"
+  },
+  {
+    "id": "17",
+    "type": "income",
+    "title": "Side Hustle",
+    "amount": 8000,
+    "category": "Freelance",
+    "emoji": "🚀",
+    "date": "2024-11-30T16:00:00.000Z",
+    "notes": "Consulting work"
+  },
+  {
+    "id": "18",
+    "type": "expense",
+    "title": "Phone Bill",
+    "amount": 599,
+    "category": "Utilities",
+    "emoji": "📱",
+    "date": "2024-11-25T10:30:00.000Z",
+    "notes": "Monthly mobile plan"
+  },
+  {
+    "id": "19",
+    "type": "expense",
+    "title": "Travel",
+    "amount": 12000,
+    "category": "Travel",
+    "emoji": "✈️",
+    "date": "2024-11-20T06:00:00.000Z",
+    "notes": "Weekend trip"
+  },
+  {
+    "id": "20",
+    "type": "expense",
+    "title": "Insurance Premium",
+    "amount": 5000,
+    "category": "Insurance",
+    "emoji": "🛡️",
+    "date": "2024-11-15T12:00:00.000Z",
+    "notes": "Health insurance premium"
+  }
+]

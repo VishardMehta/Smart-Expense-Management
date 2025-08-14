@@ -14,7 +14,7 @@ const Login = () => {
       <div className="flex min-h-screen items-center justify-center bg-gray-50 px-4">
         <div className="max-w-md w-full bg-white shadow-lg rounded-2xl p-10 text-center">
           <h2 className="text-3xl font-semibold text-gray-800 mb-6">
-            Welcome Back 👋
+            Welcome Back 👋 Pussy
           </h2>
           <p className="text-gray-500 mb-8">
             Sign in to continue managing your expenses.
